@@ -4,6 +4,7 @@
 - [Pixel rain - with mouse interaction](adventures/april-2017/adventure-20170430.html)
 
 ### May 2017
+- [Scale face](adventures/may-2017/adventure-20170504.html)
+- [Bounce face](adventures/may-2017/adventure-20170502.html)
 - [Spin face](adventures/may-2017/adventure-20170503.html)
 - [Musical rain](adventures/may-2017/adventure-20170501.html)
-- [Bounce face](adventures/may-2017/adventure-20170502.html)
