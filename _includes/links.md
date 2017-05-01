@@ -5,3 +5,4 @@
 
 ### May 2017
 - [Musical rain](adventures/may-2017/adventure-20170501.html)
+- [Bounce face](adventures/may-2017/adventure-20170502.html)
